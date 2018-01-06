@@ -8,4 +8,4 @@
 ### Run this using jupyter notebook.Just type jupyter notebook in the main directory and the code will pop up in a browser window.
 # Output:
 ### This program either encrypt or decrypt a file as per the command given to it.Example of encryption is uploaded as (encrypted)test.txt of a file test.txt. 
-# Encryption or Decryption can be only done if the passwords used is same for both the process.
+### Encryption or Decryption can be done only when passwords used are same for both either Encryption or  Decryption. 
